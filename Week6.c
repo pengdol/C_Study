@@ -71,3 +71,39 @@
   b = --a;
   printf("a = %d, b = %d\n", a, b);
 }*/
+
+/*void main()
+{
+  if(1)
+  {
+      printf("True\t참\n");
+      printf("응\t맞아\n");
+  }
+  else
+  {
+      printf("False\t거짓\n");
+      printf("아니\t아니야\n");
+  }
+}*/
+
+/*void main()
+{
+  int score;
+  scanf("%d", &score);
+  if(score >= 90)
+  {
+      printf("A");
+  }
+  else if(score >= 80 && score < 90)
+  {
+      printf("B");
+  }
+  else if(score >= 70 && score < 80)
+  {
+      printf("B");
+  }
+  else
+  {
+      printf("F");
+  }
+}*/
