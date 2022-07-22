@@ -46,3 +46,20 @@
   printf("%d\n", n--);
   printf("%d\n", n);
 }*/
+
+/*void main()
+{
+  int x;
+  scanf("%d", &x);
+  if(x % 2 == 0 && x % 3 == 0)
+    printf("공배수 O\n");
+  else
+    printf("공배수 X\n");
+
+  int y;
+  scanf("%d", &y);
+  if(12 % y == 0 && 30 % y == 0)
+    printf("공약수 O\n");
+  else
+    printf("공약수 X\n");
+}*/
