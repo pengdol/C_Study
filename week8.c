@@ -150,3 +150,51 @@
   if(hgt>1000)
     printf("대기권: 외기권, 특징: 우주");
 }*/
+
+/*void main()
+{
+  int n;
+
+  for (n=30; n > 20; n--)
+    {
+      printf("n = %d\n", n); 
+    }
+
+  printf("마지막 n = %d\n", n);
+}*/
+
+/*void main()
+{
+  int i;
+  int n = 1;
+  
+  for (i = 0; i < 10; i++)
+  {
+    printf("%d ", n);
+    n *= -1;
+  }
+}*/
+
+/*void main()
+{
+  int i;
+  int n = 1;
+  
+  for (i = 0; i < 10; i++)
+  {
+    printf("%d ", (i+1) * n);
+    n = n * -1;
+  }
+}*/
+
+/*void main()
+{
+  int i;
+  int n = 1;
+  
+  for (i = 0; i < 10; i++)
+  {
+    printf("%d ", (i+1) % 2);
+    n = n * -1;
+  }
+}*/
