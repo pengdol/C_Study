@@ -17,3 +17,14 @@ void main()
   }
   printf("%d일", y);
 }
+
+void main()
+{
+  int i = 10;
+
+  while(1)
+  {
+    printf("뭐 ");
+    --i;
+  }
+}
